@@ -1,5 +1,5 @@
 // 火箭鳥創客倉庫
-// 定義空心杯馬達連接的 GPIO 腳位 (根據你的硬體需求)
+// 定義空心杯馬達連接的 GPIO 腳位
 const int M1_PIN = 0;  // M1 控制腳
 const int M2_PIN = 11; // M2 控制腳
 const int M3_PIN = 14; // M3 控制腳
